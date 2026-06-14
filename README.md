@@ -1,6 +1,6 @@
 # Deep Pulse Production — website
 
-A bilingual (English / Russian) one-page marketing site for **deeplusleproduction.com** —
+A bilingual (English / Russian) one-page marketing site for **deeppulseproduction.com** —
 underwater photo & video, freediving and equipment for dolphin tours and liveaboards.
 Built as a static site: plain HTML, CSS and JavaScript, no build step.
 
@@ -29,7 +29,7 @@ assets/img/gallery/     g01–g12 (grid thumbs) + g01–g12-full (lightbox)
 
 ## Things you'll likely want to edit
 
-- **Contact email** — currently the placeholder `hello@deeplusleproduction.com`.
+- **Contact email** — currently the placeholder `hello@deeppulseproduction.com`.
   Replace it everywhere with your real address (in `index.html`: the contact chip
   and footer link; in `assets/js/main.js`: the `mailto:` in the form handler).
 - **Instagram** — set to `@romeo_freediving` (`https://instagram.com/romeo_freediving`).
@@ -46,7 +46,7 @@ The page ships in English by default. The **EN · RU** switch in the header swap
 `.lang-en` / `.lang-ru` pair and remembers the choice in the browser. The `<body>` carries
 `lang-en` or `lang-ru` as the active-language flag.
 
-## Deploying to deeplusleproduction.com
+## Deploying to deeppulseproduction.com
 
 It's a static site, so any static host works — Netlify, Vercel, Cloudflare Pages,
 GitHub Pages, or plain shared hosting. Just upload the whole `deeppulse/` folder and

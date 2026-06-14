@@ -199,7 +199,7 @@
         ? ["Имя: " + name, "Эл. почта: " + email, "Даты и маршрут: " + dates, "", msg]
         : ["Name: " + name, "Email: " + email, "Dates & route: " + dates, "", msg];
       var href =
-        "mailto:hello@deeplusleproduction.com?subject=" +
+        "mailto:hello@deeppulseproduction.com?subject=" +
         encodeURIComponent(subject) +
         "&body=" +
         encodeURIComponent(bodyLines.join("\n"));
