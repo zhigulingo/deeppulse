@@ -1,185 +1,185 @@
-# Panglao, Philippines - draft proposal
+# Панглао, Филиппины - черновик предложения
 
-## Positioning
+## Позиционирование
 
-Panglao is the most practical Philippine direction in this set: easier logistics, established freediving scene, warm clear water and a strong mix of training, reef sessions, sardines / turtles nearby and comfortable island infrastructure. It can be positioned as the first Asia product to sell because it is simpler for participants to understand and easier to package.
+Панглао - самое практичное филиппинское направление из этого набора: проще логистика, развитая фридайвинг-среда, теплая прозрачная вода и хороший баланс между тренировками, рифовыми сессиями, островной инфраструктурой и визуальным контентом. Это может быть первое азиатское направление для продажи, потому что его легко объяснить участникам и проще упаковать.
 
-The tone of the product: accessible, warm, structured, comfortable. A good choice for beginners, first-time Asia travelers and groups that need a balance between ocean, training and relaxed travel.
+Тон продукта: доступный, теплый, структурный, комфортный. Хороший выбор для новичков, первого путешествия в Азию и групп, которым нужен баланс океана, обучения и расслабленного отдыха.
 
-## Draft Text For Offer
+## Драфт текста для КП
 
-### Short Version
+### Короткая версия
 
-Panglao is a warm-water freediving week in the Philippines with clear water, easy island logistics and a strong training environment. The program combines freediving sessions, safety, technique, recovery practices and underwater photo/video content in a relaxed tropical setting.
+Панглао - неделя фридайвинга в теплой воде Филиппин с понятной островной логистикой, красивым океаном и сильной тренировочной средой. Программа объединяет фридайвинг-сессии, безопасность, технику, восстановительные практики и подводный фото-/видеоконтент в расслабленной тропической атмосфере.
 
-This direction is ideal for beginners and continuing freedivers who want a comfortable base, predictable daily rhythm and beautiful ocean visuals without complicated travel inside the country.
+Направление отлично подходит начинающим и продолжающим фридайверам, которым нужна комфортная база, понятный дневной ритм и красивые океанские кадры без сложных перемещений внутри страны.
 
-### Long Version
+### Расширенная версия
 
-Panglao is a soft entry into freediving travel in Asia. The island has a developed ocean community, easy access to training spots, warm water and enough infrastructure to make the trip comfortable without losing the feeling of being close to nature.
+Панглао - мягкий вход во фридайвинг-путешествия по Азии. На острове есть развитая океанская среда, доступ к тренировочным спотам, теплая вода и достаточно инфраструктуры, чтобы поездка была комфортной, но не теряла ощущение близости к природе.
 
-The program is built around daily freediving practice, safety and gradual confidence in open water. We work with relaxation, breathing, equalization, body position, finning and buddy procedures. Depending on the level of the group, the week can be shaped as an introductory freediving experience, a training camp or a mixed retreat with ocean, mobility and content.
+Программа строится вокруг ежедневной фридайвинг-практики, безопасности и постепенной уверенности в открытой воде. Мы работаем с расслаблением, дыханием, продувкой, положением тела, техникой гребка и buddy-процедурами. В зависимости от уровня группы неделя может быть вводным фридайвинг-опытом, тренировочным лагерем или смешанным retreat-форматом с океаном, мобилити и контентом.
 
-The visual part is built into the route: underwater portraits, reef movement, group moments, lifestyle shooting and short vertical videos. Panglao works especially well for participants who want both progress in the water and beautiful content from the trip.
+Визуальная часть встроена в маршрут: подводные портреты, рифовое движение, групповые моменты, lifestyle-съемка и короткие вертикальные видео. Панглао особенно хорошо подходит участникам, которым важны и прогресс в воде, и красивый контент из поездки.
 
-## Target Audience
+## Аудитория
 
-- People who want their first freediving trip in Asia.
-- Beginners who need a comfortable and safe environment.
-- Continuing freedivers who want warm-water training.
-- Content-oriented travelers.
-- Groups that need simple logistics and clear sales language.
+- Люди, которые хотят первую фридайвинг-поездку в Азию.
+- Новички, которым нужна комфортная и безопасная среда.
+- Продолжающие фридайверы для тренировок в теплой воде.
+- Участники, ориентированные на контент.
+- Группы, которым нужна простая логистика и понятный текст продаж.
 
-## Program Format
+## Формат программы
 
-Recommended length: 7-10 days.
+Рекомендуемая длительность: 7-10 дней.
 
-Group size: 5-10 participants.
+Размер группы: 5-10 участников.
 
-Core components:
+Основные блоки:
 
-- Freediving course or training camp format.
-- Shore / boat sessions depending on selected partner and conditions.
-- Technique, breathing, relaxation and safety blocks.
-- Fun dives and reef / wildlife-oriented days.
-- Underwater photo and video.
-- One rest / excursion day.
-- Optional add-ons: yoga, mobility, island tour, extra individual shooting.
+- Формат курса или тренировочного лагеря.
+- Сессии с берега / лодки в зависимости от партнера и условий.
+- Техника, дыхание, расслабление и безопасность.
+- Fun dives и рифовые / wildlife-oriented дни.
+- Подводная фото- и видеосъемка.
+- Один день отдыха / экскурсии.
+- Опциональные дополнения: йога, мобилити, островной тур, индивидуальная съемка.
 
-## Example 8-Day Itinerary
+## Пример программы на 8 дней
 
-Day 1: Arrival to Bohol-Panglao, check-in, welcome meeting, equipment check.
+День 1: Прилет в Bohol-Panglao, заселение, welcome-встреча, проверка снаряжения.
 
-Day 2: Safety, theory refresh, first water session, level assessment.
+День 2: Безопасность, теория, первая водная сессия, оценка уровня.
 
-Day 3: Equalization, duck dive, line practice, underwater photo basics.
+День 3: Продувка, duck dive, работа на линии, базовая подводная съемка.
 
-Day 4: Training session, buddy drills, individual feedback.
+День 4: Тренировочная сессия, buddy-drills, индивидуальная обратная связь.
 
-Day 5: Rest / island day, optional light mobility, lifestyle content.
+День 5: Отдых / островной день, легкая мобилити, lifestyle-контент.
 
-Day 6: Fun dive / reef session, personal underwater shooting slots.
+День 6: Fun dive / рифовая сессия, персональные слоты подводной съемки.
 
-Day 7: Final training session, group content, progress review.
+День 7: Финальная тренировка, групповой контент, разбор прогресса.
 
-Day 8: Departure or optional extension.
+День 8: Выезд или опциональное продление.
 
-## Conditions
+## Условия
 
-Included in base product:
+В базовый продукт можно включить:
 
-- Freediving instruction / coaching.
-- Safety and buddy-system briefings.
-- Organized group water sessions.
-- Basic underwater photo/video package.
-- Local trip coordination.
-- Participant preparation checklist.
+- Инструктаж / коучинг по фридайвингу.
+- Брифинги по безопасности и buddy system.
+- Организованные групповые водные сессии.
+- Базовый фото-/видеопакет.
+- Локальная координация поездки.
+- Чеклист подготовки участника.
 
-Not included by default:
+Не включать по умолчанию:
 
-- International flights.
-- Domestic flights if needed.
-- Accommodation.
-- Meals.
-- Insurance.
-- Equipment rental.
-- Local transport outside the program.
-- Extra tours and personal expenses.
+- Международные перелеты.
+- Внутренние перелеты при необходимости.
+- Проживание.
+- Питание.
+- Страховку.
+- Аренду снаряжения.
+- Локальный транспорт вне программы.
+- Дополнительные туры и личные расходы.
 
-Required:
+Обязательные условия:
 
-- Ability to swim comfortably.
-- Medical questionnaire.
-- Insurance suitable for water activities.
-- Respect for instructor decisions on depth, weather and safety.
-- No alcohol before water sessions.
+- Уверенное плавание.
+- Медицинская анкета.
+- Страховка, подходящая для водных активностей.
+- Уважение к решениям инструктора по глубине, погоде и безопасности.
+- Без алкоголя перед водными сессиями.
 
-## Package Ideas
+## Варианты пакетов
 
 ### Starter Camp
 
-- 4-5 water sessions.
-- Beginner-friendly instruction.
-- Basic group photo package.
-- Simple accommodation category.
+- 4-5 водных сессий.
+- Beginner-friendly обучение.
+- Базовый групповой фотопакет.
+- Простая категория проживания.
 
 ### Training + Content
 
-- 5-6 water sessions.
-- Individual technique feedback.
-- 1-2 personal shooting slots.
-- 30-50 selected photos from the trip.
-- 2-4 short vertical videos.
+- 5-6 водных сессий.
+- Индивидуальная обратная связь по технике.
+- 1-2 персональных слота съемки.
+- 30-50 выбранных фото из поездки.
+- 2-4 коротких вертикальных видео.
 
 ### Premium Small Group
 
-- 6 water sessions.
-- Smaller ratio.
-- Extended shooting time.
-- Lifestyle + underwater content.
-- Optional organizer / brand content.
+- 6 водных сессий.
+- Меньшее соотношение инструктор / участники.
+- Расширенное время съемки.
+- Lifestyle + underwater контент.
+- Опциональный пакет для организатора / бренда.
 
-## Collected Info
+## Собранная информация
 
-### Seasonality
+### Сезонность
 
-Panglao is often marketed as a year-round freediving area with warm water. For travel packaging, the drier months are usually easier to sell, while wet season needs more flexibility. Local conditions can still be good outside peak season, but rain, wind and sea state can affect daily plans.
+Панглао часто продается как круглогодичное направление для фридайвинга с теплой водой. Для коммерческой упаковки сухие месяцы проще продавать, а влажный сезон требует гибкости. Локальные условия могут быть хорошими и вне пика, но дождь, ветер и состояние моря влияют на дневной план.
 
-Working recommendation:
+Рабочая рекомендация:
 
-- Primary sales window: November-May.
-- Good candidate for shoulder-season launches if partner confirms local conditions.
-- Avoid promising specific wildlife encounters.
+- Основное окно продаж: ноябрь-май.
+- Возможны shoulder-season запуски, если локальный партнер подтверждает условия.
+- Не обещать конкретные встречи с животными.
 
-### Logistics
+### Логистика
 
-Arrival airport: Bohol-Panglao International Airport (TAG), located on Panglao Island.
+Аэропорт прилета: Bohol-Panglao International Airport (TAG), расположен на острове Панглао.
 
-Alternative route: international arrival via Manila or Cebu, then domestic flight or ferry route depending on current schedules.
+Альтернативный маршрут: международный прилет через Манилу или Себу, затем внутренний перелет или паромный маршрут по актуальному расписанию.
 
-Operational notes:
+Операционные заметки:
 
-- Panglao has simpler arrival logistics than Mindoro because the airport is on the island.
-- Alona / Panglao resort areas are easy to understand for clients.
-- Transfers and accommodation can be packaged cleanly.
+- Панглао проще по прилету, чем Миндоро, потому что аэропорт находится на острове.
+- Районы Alona / Panglao легко объяснять клиентам.
+- Трансферы и проживание удобно собирать в пакет.
 
-### Freediving / Content Potential
+### Потенциал для фридайвинга и контента
 
-Panglao is strong for:
+Сильные стороны Панглао:
 
-- Training-friendly warm water.
-- Comfortable base for beginners.
-- Established freediving schools / operators.
-- Reef, sardine-run and turtle-style content nearby depending on chosen sites.
-- Easy sales language: "Freediving Capital of Asia" is commonly used by operators, but should be verified before using as a claim.
+- Теплая вода и комфортная среда для тренировок.
+- Хорошая база для новичков.
+- Развитые фридайвинг-школы / операторы.
+- Рифы, sardine-run и turtle-style контент рядом, в зависимости от выбранных спотов.
+- Понятная продажная формулировка: некоторые операторы называют район "Freediving Capital of Asia", но перед использованием как claim это нужно проверить.
 
-It is weaker for:
+Слабые стороны:
 
-- Remote / wild expedition vibe.
-- Exclusive luxury positioning unless accommodation is upgraded.
+- Меньше ощущения удаленной / дикой экспедиции.
+- Luxury-позиционирование требует аккуратного выбора проживания.
 
-### Budget Notes
+### Бюджетные ориентиры
 
-Early planning estimate per participant, excluding international flights:
+Ранний рабочий расчет на участника, без международных перелетов:
 
-- Budget base: 850-1,250 EUR.
-- Comfortable base: 1,250-1,800 EUR.
-- Premium content / small group: 1,800-2,700 EUR.
+- Базовый уровень: 850-1 250 EUR.
+- Комфортный уровень: 1 250-1 800 EUR.
+- Premium content / small group: 1 800-2 700 EUR.
 
-Final budget depends heavily on accommodation class, school/coach rates, equipment rental and included excursions.
+Финальная смета зависит от уровня жилья, ставок школы/коуча, аренды снаряжения и включенных экскурсий.
 
-## Open Questions
+## Открытые вопросы
 
-- Use Panglao as beginner course, training camp or retreat?
-- Which local partner / school?
-- Include certification or keep as coaching format?
-- Is Napaling / sardines / Balicasag-style excursion part of the core route or add-on?
-- Exact photo/video deliverables.
-- Accommodation level and room sharing rules.
+- Панглао продаем как beginner course, training camp или retreat?
+- Какой локальный партнер / школа?
+- Включать сертификацию или оставить коучинговый формат?
+- Napaling / sardines / Balicasag-style экскурсия - ядро маршрута или add-on?
+- Точные deliverables по фото/видео.
+- Уровень проживания и правила room sharing.
 
-## Sources To Recheck Before Publishing
+## Источники, которые нужно перепроверить перед публикацией
 
-- Bohol-Panglao International Airport current routes and transfer rules.
-- Freedive Academy Panglao and local school travel pages.
-- Local Philippines freediving directories for Panglao conditions.
-- Official Philippines eTravel / immigration requirements.
+- Bohol-Panglao International Airport: актуальные маршруты и трансферы.
+- Freedive Academy Panglao и страницы локальных школ.
+- Филиппинские freediving-директории по условиям Панглао.
+- Официальные Philippines eTravel / immigration требования.

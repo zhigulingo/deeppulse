@@ -1,185 +1,185 @@
-# Amed, Indonesia - draft proposal
+# Амед, Индонезия - черновик предложения
 
-## Positioning
+## Позиционирование
 
-Amed is the best Bali direction for a calm freediving base. It has shore-access training, depth close to shore, a strong freediving community and a quieter atmosphere than the south of Bali. This product can be sold as a training camp, beginner course week, deepening retreat or content-focused ocean week with less logistical stress than Nusa Penida.
+Амед - лучшая балийская база для спокойного фридайвинга. Здесь есть тренировки с берега, глубина близко к берегу, сильное фридайвинг-комьюнити и более тихая атмосфера, чем на юге Бали. Продукт можно продавать как тренировочный кэмп, beginner course week, deepening retreat или content-focused ocean week с меньшим логистическим стрессом, чем на Нуса-Пениде.
 
-The tone of the product: grounded, calm, skill-focused, restorative. Amed is the direction for progress, routine, depth and a slower Bali experience.
+Тон продукта: спокойный, структурный, глубокий, восстановительный. Амед - направление для прогресса, регулярности, глубины и более медленного Бали.
 
-## Draft Text For Offer
+## Драфт текста для КП
 
-### Short Version
+### Короткая версия
 
-Amed is a freediving week in East Bali for people who want calm water, structured training and a slower rhythm. The program combines freediving sessions, breathing, relaxation, technique work, recovery practices and underwater photo/video content in one of Bali's most established freediving locations.
+Амед - фридайвинг-неделя на востоке Бали для тех, кто хочет спокойную воду, структурные тренировки и мягкий ритм. Программа объединяет фридайвинг-сессии, дыхание, расслабление, работу с техникой, восстановительные практики и подводный фото-/видеоконтент в одной из самых известных фридайвинг-локаций Бали.
 
-It is a strong choice for beginners and continuing freedivers who want to improve safely without losing the feeling of a warm island retreat.
+Это сильный выбор для начинающих и продолжающих фридайверов, которые хотят безопасно улучшить навыки и при этом сохранить ощущение теплого островного retreat.
 
-### Long Version
+### Расширенная версия
 
-Amed is a quiet ocean base on the northeast coast of Bali. It is known in the freediving community for shore-access training, depth close to the beach and a calm rhythm that supports learning. The route is less about rushing between attractions and more about daily practice: entering the water, relaxing, improving technique, recovering and building confidence.
+Амед - тихая океанская база на северо-восточном побережье Бали. В фридайвинг-среде он известен тренировками с берега, глубиной близко к пляжу и спокойным ритмом, который хорошо поддерживает обучение. Этот маршрут не про постоянные переезды между достопримечательностями, а про ежедневную практику: входить в воду, расслабляться, улучшать технику, восстанавливаться и наращивать уверенность.
 
-The program can be shaped for different levels. Beginners get a safe introduction to freediving, breathing, equalization and buddy procedures. Continuing freedivers can focus on depth, relaxation, technique and consistency. Between water sessions we add mobility, recovery, theory and optional content review.
+Программу можно адаптировать под разные уровни. Новички получают безопасное введение во фридайвинг, дыхание, продувку и buddy procedures. Продолжающие фридайверы могут сфокусироваться на глубине, расслаблении, технике и стабильности. Между водными сессиями добавляются мобилити, восстановление, теория и опциональный разбор видео.
 
-The visual part is elegant and clean: line training, underwater portraits, reef movement, sunrise/sunset lifestyle, local boats, Mount Agung atmosphere and calm Bali textures.
+Визуальная часть здесь спокойная и чистая: line training, подводные портреты, рифовое движение, sunrise/sunset lifestyle, локальные лодки, атмосфера Mount Agung и медленные балийские текстуры.
 
-## Target Audience
+## Аудитория
 
-- Beginners who want a serious but gentle start.
-- Continuing freedivers who want training consistency.
-- Participants who prefer calm destinations over high-adrenaline routes.
-- Retreat-style groups.
-- Clients who want photo/video but not a heavy expedition format.
+- Новички, которым нужен серьезный, но мягкий старт.
+- Продолжающие фридайверы, которым нужна регулярность тренировок.
+- Участники, предпочитающие спокойные направления вместо high-adrenaline routes.
+- Retreat-группы.
+- Клиенты, которым нужен фото-/видеоконтент без тяжелого экспедиционного формата.
 
-## Program Format
+## Формат программы
 
-Recommended length: 6-10 days.
+Рекомендуемая длительность: 6-10 дней.
 
-Group size: 4-10 participants.
+Размер группы: 4-10 участников.
 
-Core components:
+Основные блоки:
 
-- Daily or near-daily freediving sessions.
-- Technique blocks: breath-up, relaxation, equalization, finning, duck dive, line work.
-- Safety and buddy practice.
+- Ежедневные или почти ежедневные фридайвинг-сессии.
+- Техника: breath-up, расслабление, продувка, гребок, duck dive, line work.
+- Safety и buddy practice.
 - Mobility / stretching / recovery.
-- Underwater content sessions.
-- Optional yoga, theory, video analysis.
-- One rest / land day.
+- Подводные content sessions.
+- Опционально йога, теория, видеоанализ.
+- Один день отдыха / land day.
 
-## Example 7-Day Itinerary
+## Пример программы на 7 дней
 
-Day 1: Arrival to Bali, transfer to Amed, check-in, welcome meeting.
+День 1: Прилет на Бали, трансфер в Амед, заселение, welcome-встреча.
 
-Day 2: Safety briefing, level check, first shore session, breathing basics.
+День 2: Safety briefing, проверка уровня, первая shore session, основы дыхания.
 
-Day 3: Line training, equalization, finning technique, underwater portraits.
+День 3: Line training, продувка, техника гребка, подводные портреты.
 
-Day 4: Depth / comfort progression, buddy drills, optional video analysis.
+День 4: Глубина / comfort progression, buddy drills, опциональный видеоанализ.
 
-Day 5: Rest or light reef day, recovery practice, lifestyle content.
+День 5: Отдых или легкий reef day, восстановительная практика, lifestyle-контент.
 
-Day 6: Final training session, personal shooting slots, group recap.
+День 6: Финальная тренировка, персональные съемочные слоты, групповой recap.
 
-Day 7: Departure or optional extension.
+День 7: Выезд или опциональное продление.
 
-## Conditions
+## Условия
 
-Included in base product:
+В базовый продукт можно включить:
 
-- Freediving instruction / coaching.
-- Group water sessions.
-- Safety and buddy-system training.
-- Basic underwater photo/video package.
-- Trip coordination and participant prep.
-- Optional dry sessions depending on package.
+- Инструктаж / коучинг по фридайвингу.
+- Групповые водные сессии.
+- Safety и buddy-system training.
+- Базовый подводный фото-/видеопакет.
+- Координацию поездки и подготовку участников.
+- Опциональные сухие сессии в зависимости от пакета.
 
-Not included by default:
+Не включать по умолчанию:
 
-- International flights.
-- Bali airport transfers unless packaged.
-- Accommodation.
-- Meals.
-- Insurance.
-- Equipment rental.
-- Extra personal shooting.
-- Extra tours / temples / volcano trips.
+- Международные перелеты.
+- Трансферы из аэропорта Бали, если не упакованы отдельно.
+- Проживание.
+- Питание.
+- Страховку.
+- Аренду снаряжения.
+- Дополнительную персональную съемку.
+- Дополнительные туры / храмы / вулкан.
 
-Required:
+Обязательные условия:
 
-- Swimming comfort.
-- Medical questionnaire.
-- Insurance suitable for water activities.
-- Respect for instructor limits and safety decisions.
-- No alcohol before water sessions.
+- Уверенное плавание.
+- Медицинская анкета.
+- Страховка, подходящая для водных активностей.
+- Уважение к лимитам и safety-решениям инструктора.
+- Без алкоголя перед водными сессиями.
 
-## Package Ideas
+## Варианты пакетов
 
 ### Amed Starter
 
-- 4 water sessions.
-- Beginner-friendly instruction.
-- Basic photo package.
-- Simple shared accommodation.
+- 4 водные сессии.
+- Beginner-friendly обучение.
+- Базовый фотопакет.
+- Простое shared accommodation.
 
 ### Training Week
 
-- 5-6 water sessions.
-- Technique and depth progression.
-- Video feedback.
+- 5-6 водных сессий.
+- Техника и глубинная прогрессия.
+- Видео-фидбек.
 - Mobility / breathing sessions.
-- Group and individual content.
+- Групповой и индивидуальный контент.
 
 ### Retreat + Content
 
-- 4-5 water sessions.
+- 4-5 водных сессий.
 - Recovery / yoga / breathing blocks.
-- Personal underwater shooting.
+- Персональная подводная съемка.
 - Lifestyle content.
-- Slower schedule and upgraded accommodation.
+- Более медленное расписание и улучшенное проживание.
 
-## Collected Info
+## Собранная информация
 
-### Seasonality
+### Сезонность
 
-Bali's dry season is generally the easier commercial window, especially around May-October. Amed is often described as having calm, clear, shore-access water and strong conditions for freediving training, but local wind, swell and visibility still need to be checked close to the trip.
+Сухой сезон Бали обычно проще для коммерческого продукта, особенно май-октябрь. Амед часто описывают как локацию со спокойной, прозрачной водой и хорошими условиями для фридайвинг-тренировок с берега, но ветер, swell и видимость все равно нужно проверять ближе к поездке.
 
-Working recommendation:
+Рабочая рекомендация:
 
-- Primary sales window: May-October.
-- Possible year-round training product if local partner confirms conditions.
-- For first launch, sell dry-season dates.
+- Основное окно продаж: май-октябрь.
+- Возможен круглогодичный тренировочный продукт, если локальный партнер подтверждает условия.
+- Для первого запуска лучше продавать даты сухого сезона.
 
-### Logistics
+### Логистика
 
-Arrival airport: Bali / Denpasar (DPS).
+Аэропорт прилета: Bali / Denpasar (DPS).
 
-Typical route: car transfer from DPS / south Bali to Amed. Travel time depends heavily on traffic and stops; plan the first and last days as travel-buffer days.
+Типовой маршрут: автомобильный трансфер из DPS / южного Бали в Амед. Время в пути сильно зависит от трафика и остановок; первый и последний день лучше планировать как travel-buffer days.
 
-Operational notes:
+Операционные заметки:
 
-- Amed is easier logistically than Nusa Penida because no fast boat is required.
-- The long road transfer should be included or clearly coordinated.
-- Good for a single-base trip with less daily movement.
+- Амед проще, чем Нуса-Пенида, потому что не нужен fast boat.
+- Длинный road transfer лучше включить или четко скоординировать.
+- Хорошо подходит для single-base trip без ежедневных перемещений.
 
-### Freediving / Content Potential
+### Потенциал для фридайвинга и контента
 
-Amed is strong for:
+Сильные стороны Амеда:
 
-- Shore-access depth training.
-- Calm freediving routine.
-- Beginner-to-intermediate progression.
+- Глубинные тренировки с берега.
+- Спокойная фридайвинг-рутина.
+- Прогрессия beginner-to-intermediate.
 - Retreat positioning.
-- Clean underwater training visuals.
-- Bali lifestyle and Mount Agung atmosphere.
+- Чистая визуальность подводных тренировок.
+- Bali lifestyle и атмосфера Mount Agung.
 
-It is weaker for:
+Слабые стороны:
 
-- Big-animal storytelling.
-- Dramatic expedition energy.
-- High luxury unless accommodation is carefully selected.
+- Нет big-animal storytelling.
+- Меньше драматичной экспедиционной энергии.
+- Luxury-уровень зависит от грамотного выбора проживания.
 
-### Budget Notes
+### Бюджетные ориентиры
 
-Early planning estimate per participant, excluding international flights:
+Ранний рабочий расчет на участника, без международных перелетов:
 
-- Budget base: 900-1,300 EUR.
-- Comfortable base: 1,300-1,900 EUR.
-- Retreat / content premium: 1,900-2,900 EUR.
+- Базовый уровень: 900-1 300 EUR.
+- Комфортный уровень: 1 300-1 900 EUR.
+- Retreat / content premium: 1 900-2 900 EUR.
 
-Final budget depends on accommodation, local school/coach rates, transfer inclusion, equipment rental and production deliverables.
+Финальная смета зависит от проживания, ставок локальной школы/коуча, трансферов, аренды снаряжения и deliverables по продакшену.
 
-## Open Questions
+## Открытые вопросы
 
-- Training camp, certification course or retreat?
-- Which local school / instructor partner?
-- Include airport transfers in price?
-- Accommodation level: simple freediving base or boutique retreat?
-- Exact photo/video deliverables.
-- Add-on days: Tulamben, temples, volcano sunrise, Nusa Penida extension?
+- Training camp, certification course или retreat?
+- Какая локальная школа / инструктор-партнер?
+- Включать ли airport transfers в цену?
+- Уровень жилья: простая freediving base или boutique retreat?
+- Точные фото-/видео deliverables.
+- Add-on дни: Tulamben, храмы, sunrise на вулкане, extension на Нуса-Пениду?
 
-## Sources To Recheck Before Publishing
+## Источники, которые нужно перепроверить перед публикацией
 
-- Official Indonesian eVisa / immigration site for visa rules.
-- Amed freediving schools for current course/training rates.
-- Bali freediving references: SSI, Apneista, Freediving Amed, Freediving Family.
-- Local transfer providers for DPS-Amed pricing and timing.
+- Официальный Indonesian eVisa / immigration сайт по визовым правилам.
+- Фридайвинг-школы Амеда по актуальным ставкам курсов / тренировок.
+- Референсы по Bali freediving: SSI, Apneista, Freediving Amed, Freediving Family.
+- Локальные трансфер-провайдеры по DPS-Amed ценам и времени.

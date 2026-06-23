@@ -1,193 +1,193 @@
-# Mindoro, Philippines - draft proposal
+# Миндоро, Филиппины - черновик предложения
 
-## Positioning
+## Позиционирование
 
-Mindoro is a quiet Philippine freediving direction for small groups that want warm water, tropical nature and a calm rhythm without the pressure of a busy resort. The main base to consider is Puerto Galera / Aninuan Beach: easy enough to reach from Manila, strong underwater biodiversity, shore-access training options and a good fit for a 7-10 day freediving trip with photo and video content.
+Миндоро - спокойное филиппинское направление для небольших фридайвинг-групп, которым нужны теплая вода, тропическая природа и мягкий ритм без ощущения перегруженного курорта. Основную базу стоит рассматривать в районе Puerto Galera / Aninuan Beach: туда сравнительно удобно добираться из Манилы, рядом сильная морская среда, есть варианты тренировок с берега и формат хорошо подходит для поездки на 7-10 дней с фото- и видеоконтентом.
 
-The tone of the product: intimate, ocean-focused, soft adventure. This is not a luxury beach holiday first; it is a freediving week where the water, safety, progress and visual story are the center.
+Тон продукта: камерное океанское путешествие, мягкое приключение, фокус на воде и состоянии. Это не просто пляжный отпуск, а неделя фридайвинга, где в центре безопасность, прогресс, океан и визуальная история.
 
-## Draft Text For Offer
+## Драфт текста для КП
 
-### Short Version
+### Короткая версия
 
-Mindoro is a freediving journey for those who want warm tropical water, a slower island rhythm and deep contact with the ocean. We build the week around safe freediving sessions, technique work, breathing, recovery and underwater photo/video production in one of the most biodiverse marine areas of the Philippines.
+Миндоро - фридайвинг-путешествие для тех, кто хочет теплую тропическую воду, спокойный островной ритм и глубокий контакт с океаном. Неделя строится вокруг безопасных фридайвинг-сессий, работы с техникой, дыханием, восстановлением и подводной фото-/видеосъемки в одном из красивых морских районов Филиппин.
 
-The program is suitable for beginners and continuing freedivers. The group stays small so every participant gets attention, safe progression and personal content from the trip.
+Программа подходит начинающим и продолжающим фридайверам. Группа остается небольшой, поэтому каждый участник получает внимание, безопасный прогресс и личный визуальный материал из поездки.
 
-### Long Version
+### Расширенная версия
 
-Mindoro is a route for people who want to get away from heavy tourism and spend a real ocean week: training, breathing, soft discipline, warm water and visual memories. The freediving base is Puerto Galera / Aninuan area, where the shore, reefs and local dive infrastructure make it possible to combine training sessions, fun dives and underwater shooting without turning the trip into constant logistics.
+Миндоро - маршрут для тех, кто хочет уехать от плотного туризма и провести настоящую океанскую неделю: тренировки, дыхание, мягкая дисциплина, теплая вода и красивые визуальные воспоминания. База - район Puerto Galera / Aninuan, где берег, рифы и местная дайв-инфраструктура позволяют сочетать тренировки, фан-дайвы и подводную съемку без постоянной сложной логистики.
 
-During the trip we work with equalization, relaxation, finning technique, breath-up, safety protocols and confidence in open water. The program is built around the level of the group: beginners can enter freediving safely, while experienced participants get structured practice and individual tasks.
+Во время поездки мы работаем с продувкой, расслаблением, техникой гребка, подготовкой к нырку, безопасностью и уверенностью в открытой воде. Программа подстраивается под уровень группы: новички могут безопасно войти во фридайвинг, а более опытные участники получают структурированную практику и индивидуальные задачи.
 
-The visual part is not an add-on. Photo and video are part of the product: underwater portraits, movement, reef atmosphere, group moments and short cinematic clips that participants can use after the trip.
+Визуальная часть - не дополнительная опция, а часть продукта: подводные портреты, движение, атмосфера рифа, групповые моменты и короткие кинематографичные ролики, которые участники смогут использовать после поездки.
 
-## Target Audience
+## Аудитория
 
-- Beginners who want their first freediving trip in warm water.
-- Continuing freedivers who want training without an extreme/deep focus.
-- Travelers who prefer small groups and slow island rhythm.
-- Clients who value personal underwater content.
-- Organizers who need a calm, sellable product for Asia.
+- Новички, которые хотят первую фридайвинг-поездку в теплой воде.
+- Продолжающие фридайверы, которым нужна тренировка без экстремального фокуса на глубину.
+- Путешественники, которым ближе небольшие группы и медленный островной ритм.
+- Клиенты, которым важен личный подводный контент.
+- Организаторы, которым нужен спокойный и понятный продукт по Азии.
 
-## Program Format
+## Формат программы
 
-Recommended length: 7-10 days.
+Рекомендуемая длительность: 7-10 дней.
 
-Group size: 4-8 participants.
+Размер группы: 4-8 участников.
 
-Core components:
+Основные блоки:
 
-- Arrival and acclimatization.
-- Safety briefing and level check.
-- Freediving sessions from shore or boat depending on conditions.
-- Technique blocks: relaxation, duck dive, finning, line work, buddy system.
-- Breathing and mobility sessions.
-- Fun dives / reef sessions.
-- Underwater photo and video production.
-- One rest or island day.
-- Final content review and group closing.
+- Заезд и акклиматизация.
+- Брифинг по безопасности и проверка уровня.
+- Фридайвинг-сессии с берега или лодки по условиям.
+- Техника: расслабление, duck dive, гребок, работа на линии, buddy system.
+- Дыхательные и мобилити-сессии.
+- Фан-дайвы / рифовые сессии.
+- Подводная фото- и видеосъемка.
+- Один день отдыха или островной день.
+- Финальный разбор контента и закрытие группы.
 
-## Example 8-Day Itinerary
+## Пример программы на 8 дней
 
-Day 1: Arrival, transfer, check-in, intro meeting, equipment check.
+День 1: Прилет, трансфер, заселение, знакомство, проверка снаряжения.
 
-Day 2: Safety briefing, level assessment, first water session, basic shooting.
+День 2: Брифинг по безопасности, оценка уровня, первая водная сессия, базовая съемка.
 
-Day 3: Technique session, equalization and relaxation, underwater portraits.
+День 3: Техника, продувка и расслабление, подводные портреты.
 
-Day 4: Line training / depth progression within safe limits, evening review.
+День 4: Тренировка на линии / безопасная глубинная прогрессия, вечерний разбор.
 
-Day 5: Rest or light reef day, island atmosphere content, optional mobility.
+День 5: Отдых или легкий рифовый день, островной lifestyle-контент, опционально мобилити.
 
-Day 6: Fun dive / reef session, individual photo/video slots.
+День 6: Фан-дайв / рифовая сессия, индивидуальные фото-/видео-слоты.
 
-Day 7: Final water session, group content, sunset / lifestyle shooting.
+День 7: Финальная водная сессия, групповой контент, sunset / lifestyle-съемка.
 
-Day 8: Departure or optional extension.
+День 8: Выезд или опциональное продление.
 
-## Conditions
+## Условия
 
-Included in base product:
+В базовый продукт можно включить:
 
-- Freediving instruction / supervision.
-- Safety briefing and buddy protocols.
-- Group water sessions according to conditions.
-- Basic photo/video package.
-- Route planning and local coordination.
-- Pre-trip participant checklist.
+- Инструктаж / сопровождение по фридайвингу.
+- Брифинг по безопасности и buddy-протоколы.
+- Групповые водные сессии по погоде и условиям.
+- Базовый фото-/видеопакет.
+- Планирование маршрута и локальная координация.
+- Чеклист подготовки для участников.
 
-Not included by default:
+Не включать по умолчанию:
 
-- International flights.
-- Domestic transfers.
-- Accommodation.
-- Meals.
-- Personal insurance.
-- Equipment rental.
-- Marine park / local fees.
-- Medical costs.
-- Extra individual shooting.
+- Международные перелеты.
+- Внутренние трансферы.
+- Проживание.
+- Питание.
+- Личную страховку.
+- Аренду снаряжения.
+- Морские парковые / локальные сборы.
+- Медицинские расходы.
+- Дополнительную индивидуальную съемку.
 
-Required:
+Обязательные условия:
 
-- Swimming confidence.
-- Travel insurance that covers freediving/snorkeling where possible.
-- No alcohol before water sessions.
-- Medical questionnaire before the trip.
-- Final route and water program are adjusted by weather, sea state and safety.
+- Уверенное плавание.
+- Страховка, покрывающая водные активности / фридайвинг, если возможно.
+- Без алкоголя перед водными сессиями.
+- Медицинская анкета до поездки.
+- Финальный маршрут и водная программа зависят от погоды, моря и безопасности.
 
-## Package Ideas
+## Варианты пакетов
 
 ### Essential
 
-For participants who want training and a simple trip.
+Для участников, которым нужны тренировки и понятная поездка.
 
-- 5-6 water sessions.
-- Group safety and technique work.
-- Basic underwater photo package.
-- 1-2 short reels per group.
+- 5-6 водных сессий.
+- Групповая работа по безопасности и технике.
+- Базовый подводный фотопакет.
+- 1-2 коротких reels на группу.
 
 ### Content
 
-For participants who want a stronger visual result.
+Для участников, которым важнее визуальный результат.
 
-- 5-6 water sessions.
-- 2 personal underwater shooting slots.
-- 30-50 edited photos per participant pool / group archive.
-- 2-4 short vertical videos.
-- One group cinematic recap.
+- 5-6 водных сессий.
+- 2 персональных слота подводной съемки.
+- 30-50 обработанных фото в общем архиве / на участника по возможности.
+- 2-4 коротких вертикальных видео.
+- Один групповой cinematic recap.
 
 ### Organizer / Retreat
 
-For a partner who brings the group.
+Для партнера, который приводит группу.
 
-- Custom-branded program.
-- Organizer personal content session.
-- Commission model or fixed production fee.
-- Optional white-label participant materials.
+- Программа под бренд организатора.
+- Персональная съемка для организатора.
+- Комиссионная модель или фиксированная стоимость продакшена.
+- Опциональные white-label материалы для участников.
 
-## Collected Info
+## Собранная информация
 
-### Seasonality
+### Сезонность
 
-Puerto Galera / Mindoro can work for diving year-round, but the cleaner commercial window is usually the drier season from roughly November to May. Wet season starts around June; July to September can bring more rain and typhoon risk. Some sources note that visibility can still be good in wet season, but the operational risk is higher.
+Puerto Galera / Mindoro может работать для дайвинга круглый год, но для коммерческого продукта чище выглядит сухой сезон примерно с ноября по май. Влажный сезон начинается примерно с июня; июль-сентябрь могут давать больше дождей и тайфунных рисков. Некоторые источники отмечают, что видимость может быть хорошей и во влажный сезон, но операционный риск выше.
 
-Working recommendation:
+Рабочая рекомендация:
 
-- Primary sales window: November-May.
-- Careful / flexible window: June-October.
-- For first launch, avoid building the main product around peak typhoon months unless cancellation rules are very clear.
+- Основное окно продаж: ноябрь-май.
+- Осторожное / гибкое окно: июнь-октябрь.
+- Для первого запуска лучше не ставить главный продукт на пиковые тайфунные месяцы без очень ясных правил отмены.
 
-### Logistics
+### Логистика
 
-Likely arrival airport: Manila.
+Вероятный аэропорт прилета: Манила.
 
-Typical route: Manila to Batangas area by car/van, then ferry/boat to Puerto Galera, then local transfer to Aninuan / accommodation area.
+Типовой маршрут: Манила - район Batangas на машине/вэне, затем паром/лодка до Puerto Galera, затем локальный трансфер до Aninuan / выбранного жилья.
 
-Operational notes:
+Операционные заметки:
 
-- Transfers should be built into the trip as a coordinated group movement.
-- Buffer time is important on arrival/departure days.
-- Ferry schedules and sea conditions must be checked close to travel dates.
+- Трансферы лучше собирать как общий групповой переезд.
+- В дни прилета и вылета нужен буфер по времени.
+- Расписания паромов и состояние моря нужно проверять ближе к датам.
 
-### Freediving / Content Potential
+### Потенциал для фридайвинга и контента
 
-Mindoro is strong for:
+Сильные стороны Миндоро:
 
-- Calm training atmosphere.
-- Reef and shore-access content.
-- Small group storytelling.
-- Beginner-friendly tropical visuals.
+- Спокойная тренировочная атмосфера.
+- Рифовый и shore-access контент.
+- Камерная история небольшой группы.
+- Понятная тропическая визуальность для новичков.
 
-It is weaker for:
+Слабые стороны:
 
-- Big animal guarantee.
-- Luxury positioning.
-- High-speed adventure narrative.
+- Нет гарантии больших животных.
+- Не самое очевидное luxury-позиционирование.
+- Меньше "вау-экспедиции", чем в Нуса-Пениде.
 
-### Budget Notes
+### Бюджетные ориентиры
 
-Early planning estimate per participant, excluding international flights:
+Ранний рабочий расчет на участника, без международных перелетов:
 
-- Budget base: 900-1,300 EUR.
-- Comfortable base: 1,300-1,900 EUR.
-- Content-heavy / small group: 1,800-2,600 EUR.
+- Базовый уровень: 900-1 300 EUR.
+- Комфортный уровень: 1 300-1 900 EUR.
+- Маленькая группа / сильный контент: 1 800-2 600 EUR.
 
-These are planning ranges only. Final budget needs accommodation, transfer, boat, instructor and production costs.
+Это только ориентиры для планирования. Финальная смета зависит от проживания, трансферов, лодок, ставки инструктора и объема продакшена.
 
-## Open Questions
+## Открытые вопросы
 
-- Which exact base: Puerto Galera, Aninuan or another Mindoro spot?
-- Is the product sold as freediving training, photo/video trip or retreat?
-- Does the price include accommodation and transfers?
-- What certification system is used, if any?
-- Minimum participant number for launch.
-- Cancellation policy for bad sea/weather.
+- Какая точная база: Puerto Galera, Aninuan или другой спот на Миндоро?
+- Продукт продается как обучение фридайвингу, фото-/видеопоездка или retreat?
+- Включены ли проживание и трансферы в стоимость?
+- Используется ли сертификационная система?
+- Минимальное число участников для запуска.
+- Политика отмены при плохом море / погоде.
 
-## Sources To Recheck Before Publishing
+## Источники, которые нужно перепроверить перед публикацией
 
-- Puerto Galera / Mindoro diving season and wet season notes: Bluewater Dive Travel, Divezone, local Puerto Galera operators.
-- Local freediving base references: Freedive Inn / Puerto Galera, Philippines freediving directories.
-- Ferry and transfer information: current Batangas-Puerto Galera ferry operators.
-- Entry rules: official Philippines eVisa / immigration resources and eTravel requirements.
+- Сезонность дайвинга Puerto Galera / Mindoro: Bluewater Dive Travel, Divezone, локальные операторы Puerto Galera.
+- Локальные фридайвинг-базы: Freedive Inn / Puerto Galera, филиппинские freediving-директории.
+- Паромы и трансферы: актуальные операторы Batangas-Puerto Galera.
+- Правила въезда: официальные ресурсы Philippines eVisa / immigration и eTravel.

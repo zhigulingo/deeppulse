@@ -1,199 +1,199 @@
-# Nusa Penida, Indonesia - draft proposal
+# Нуса-Пенида, Индонезия - черновик предложения
 
-## Positioning
+## Позиционирование
 
-Nusa Penida is the strongest visual direction in the set. It is ocean, cliffs, manta rays, current, depth and adventure. This product should not be sold as the easiest beginner trip; it should be positioned as a cinematic freediving and content journey for people who want a powerful nature experience and understand that conditions can be more demanding.
+Нуса-Пенида - самое сильное визуальное направление из этого набора. Это океан, скалы, манты, течения, глубина и ощущение приключения. Его не стоит продавать как самый простой beginner trip; лучше позиционировать как кинематографичное фридайвинг- и content-путешествие для людей, которые хотят сильный природный опыт и понимают, что условия могут быть более требовательными.
 
-The tone of the product: adventurous, cinematic, high-impact, safety-first. It is the best direction for a premium visual offer, but it needs clear risk management and careful participant screening.
+Тон продукта: приключение, кино, сильный визуальный impact, safety-first. Это лучшее направление для premium visual offer, но ему нужны ясный risk management и аккуратный отбор участников.
 
-## Draft Text For Offer
+## Драфт текста для КП
 
-### Short Version
+### Короткая версия
 
-Nusa Penida is a cinematic freediving trip in Indonesia for those who want strong ocean energy, dramatic landscapes and unforgettable underwater content. The program combines freediving practice, safety, boat days, manta-oriented sites when conditions allow, and photo/video production in one of Bali's most visually powerful island settings.
+Нуса-Пенида - кинематографичное фридайвинг-путешествие в Индонезии для тех, кому нужны сильная океанская энергия, драматичные ландшафты и запоминающийся подводный контент. Программа объединяет фридайвинг-практику, безопасность, лодочные дни, manta-oriented споты по условиям и фото-/видеопродакшен в одной из самых визуально мощных островных локаций рядом с Бали.
 
-This direction is best for confident swimmers and participants who are ready for real ocean conditions.
+Направление лучше подходит уверенным пловцам и участникам, которые готовы к настоящим океанским условиям.
 
-### Long Version
+### Расширенная версия
 
-Nusa Penida is not a soft resort week. It is an ocean trip with scale: cliffs, blue water, boat days, current, manta sites and a feeling of adventure. The program is designed for participants who want more than training; they want a visual story and a strong encounter with the ocean.
+Нуса-Пенида - это не мягкая resort-неделя. Это океанская поездка с масштабом: скалы, синяя вода, лодочные дни, течение, manta sites и ощущение приключения. Программа создана для участников, которым нужно больше, чем тренировки: им нужна визуальная история и сильная встреча с океаном.
 
-The freediving part is built around safety, conditions and respect for the environment. We do not promise wildlife, depth or perfect water. We create a route where each water day is planned according to sea state, group level and local guidance. When conditions allow, the program includes manta-oriented spots, reef sessions and cinematic underwater shooting.
+Фридайвинг-часть строится вокруг безопасности, условий и уважения к среде. Мы не обещаем животных, глубину или идеальную воду. Мы создаем маршрут, где каждый водный день планируется по морю, уровню группы и рекомендациям локальных гидов. Когда условия позволяют, программа включает manta-oriented споты, рифовые сессии и кинематографичную подводную съемку.
 
-The content potential is the main strength of this direction: underwater movement, big landscapes, boat atmosphere, cliff viewpoints, lifestyle shots and vertical video for participants and organizers.
+Главная сила направления - контент: подводное движение, большие ландшафты, атмосфера лодки, cliff viewpoints, lifestyle-кадры и вертикальные видео для участников и организаторов.
 
-## Target Audience
+## Аудитория
 
-- Confident swimmers and continuing freedivers.
-- Participants who want strong visual content.
-- Travelers who like adventure and are comfortable with boat logistics.
-- Brands / organizers who need a high-impact media product.
-- Groups that accept condition-dependent planning.
+- Уверенные пловцы и продолжающие фридайверы.
+- Участники, которым важен сильный визуальный контент.
+- Путешественники, которым нравится приключение и лодочная логистика.
+- Бренды / организаторы, которым нужен high-impact media product.
+- Группы, готовые к condition-dependent planning.
 
-Not ideal for:
+Не идеально для:
 
-- Nervous beginners.
-- People expecting flat water every day.
-- Clients who require guaranteed manta encounters.
+- Тревожных новичков.
+- Людей, которые ждут плоскую воду каждый день.
+- Клиентов, которым нужны гарантированные встречи с мантами.
 
-## Program Format
+## Формат программы
 
-Recommended length: 7-9 days.
+Рекомендуемая длительность: 7-9 дней.
 
-Group size: 4-8 participants.
+Размер группы: 4-8 участников.
 
-Core components:
+Основные блоки:
 
-- Arrival via Bali and transfer to Nusa Penida.
-- Safety briefing focused on current, boat entries and wildlife etiquette.
-- Freediving / snorkeling sessions depending on level and conditions.
-- Manta-oriented day if conditions allow.
-- Reef / training sessions.
+- Прилет на Бали и трансфер на Нуса-Пениду.
+- Брифинг по безопасности: течения, лодочные входы, этика взаимодействия с животными.
+- Фридайвинг / снорклинг-сессии по уровню и условиям.
+- Manta-oriented день, если позволяют условия.
+- Рифовые / тренировочные сессии.
 - Cliff / island content day.
-- Underwater and lifestyle photo/video production.
-- Backup plan for rough sea days.
+- Подводная и lifestyle фото-/видеосъемка.
+- Backup plan на случай грубого моря.
 
-## Example 8-Day Itinerary
+## Пример программы на 8 дней
 
-Day 1: Arrival to Bali, group transfer / overnight or direct move to Penida depending on schedule.
+День 1: Прилет на Бали, групповой трансфер / ночевка или прямой переезд на Пениду по расписанию.
 
-Day 2: Ferry to Nusa Penida if needed, check-in, island briefing, equipment check.
+День 2: Паром на Нуса-Пениду при необходимости, заселение, island briefing, проверка снаряжения.
 
-Day 3: First water session, safety protocols, level assessment, light content.
+День 3: Первая водная сессия, safety protocols, оценка уровня, легкий контент.
 
-Day 4: Boat day / manta-oriented route if conditions allow, underwater shooting.
+День 4: Лодочный день / manta-oriented маршрут по условиям, подводная съемка.
 
-Day 5: Rest or land content day: cliffs, beaches, organizer/participant lifestyle content.
+День 5: Отдых или land content day: скалы, пляжи, lifestyle-контент для участников / организатора.
 
-Day 6: Reef / training session, personal shooting slots.
+День 6: Рифовая / тренировочная сессия, персональные съемочные слоты.
 
-Day 7: Final water day or backup weather day, group recap content.
+День 7: Финальный водный день или weather backup day, групповой recap-контент.
 
-Day 8: Return to Bali / departure.
+День 8: Возвращение на Бали / вылет.
 
-## Conditions
+## Условия
 
-Included in base product:
+В базовый продукт можно включить:
 
-- Freediving / water supervision.
-- Local boat coordination.
-- Safety and wildlife-etiquette briefing.
-- Group water sessions according to conditions.
-- Photo/video package.
-- Trip coordination and participant prep materials.
+- Фридайвинг / водное сопровождение.
+- Координацию локальных лодок.
+- Брифинг по безопасности и wildlife etiquette.
+- Групповые водные сессии по условиям.
+- Фото-/видеопакет.
+- Координацию поездки и материалы подготовки.
 
-Not included by default:
+Не включать по умолчанию:
 
-- International flights.
-- Bali hotels before/after Penida.
-- Ferry tickets unless packaged.
-- Accommodation.
-- Meals.
-- Insurance.
-- Equipment rental.
+- Международные перелеты.
+- Отели на Бали до/после Пениды.
+- Билеты на fast boat, если не упакованы отдельно.
+- Проживание.
+- Питание.
+- Страховку.
+- Аренду снаряжения.
 - Marine / local fees.
-- Extra private shooting.
+- Дополнительную private shooting.
 
-Required:
+Обязательные условия:
 
-- Confident swimming ability.
-- Honest medical questionnaire.
-- Insurance suitable for ocean activities.
-- Comfort with boat entries and variable sea state.
-- Acceptance that route can change for safety.
-- No guaranteed wildlife encounters.
+- Уверенное плавание.
+- Честная медицинская анкета.
+- Страховка, подходящая для океанских активностей.
+- Готовность к лодочным входам и переменному состоянию моря.
+- Принятие того, что маршрут может меняться ради безопасности.
+- Никаких гарантий встреч с животными.
 
-## Package Ideas
+## Варианты пакетов
 
 ### Adventure Base
 
-- 3-4 water days.
+- 3-4 водных дня.
 - 1 land content day.
-- Basic group content package.
+- Базовый групповой content package.
 - Shared accommodation category.
 
 ### Cinematic Content
 
-- 4-5 water / content sessions.
-- Manta-oriented route when possible.
-- Individual underwater shooting.
+- 4-5 водных / content-сессий.
+- Manta-oriented маршрут по возможности.
+- Индивидуальная подводная съемка.
 - Lifestyle / cliff content.
-- 1 group recap video.
-- 3-5 short vertical videos.
+- 1 групповой recap video.
+- 3-5 коротких вертикальных видео.
 
 ### Premium Production
 
-- Small group.
-- Dedicated photo/video team.
-- Organizer brand package.
-- Extended post-production.
-- Backup shooting day built into schedule.
+- Маленькая группа.
+- Отдельная фото-/видеокоманда.
+- Пакет для бренда / организатора.
+- Расширенная постпродакшн-часть.
+- Backup shooting day внутри расписания.
 
-## Collected Info
+## Собранная информация
 
-### Seasonality
+### Сезонность
 
-Nusa Penida is known for manta sightings throughout the year, while mola mola / ocean sunfish season is commonly described as roughly July-November, with peak often around August-October. However, these are diving-market references and must not be presented as guarantees.
+Нуса-Пенида известна встречами с мантами в течение года, а сезон mola mola / ocean sunfish обычно описывают примерно как июль-ноябрь, с пиком часто в августе-октябре. Но это дайвинг-ориентированные ориентиры, их нельзя подавать как гарантии.
 
-For a freediving/content trip, the more important operational factors are current, swell, boat safety and group level.
+Для фридайвинг-/content-поездки важнее не календарь сам по себе, а течения, swell, безопасность лодок и уровень группы.
 
-Working recommendation:
+Рабочая рекомендация:
 
-- Best visual / big-ocean sales window: July-October if targeting mola/manta narrative.
-- More general trip window: dry season months around May-October.
-- Always keep weather and sea-state backup days.
+- Лучшее визуальное / big-ocean окно: июль-октябрь, если хотим использовать mola/manta narrative.
+- Более общее окно поездки: сухой сезон примерно май-октябрь.
+- Обязательно держать backup days по погоде и морю.
 
-### Logistics
+### Логистика
 
-Arrival airport: Bali / Denpasar (DPS).
+Аэропорт прилета: Bali / Denpasar (DPS).
 
-Typical route: airport or hotel transfer to Sanur, fast boat from Sanur Harbour to Nusa Penida, local transfer on the island.
+Типовой маршрут: трансфер из аэропорта или отеля в Sanur, fast boat из Sanur Harbour на Нуса-Пениду, локальный трансфер по острову.
 
-Operational notes:
+Операционные заметки:
 
-- Sanur-Nusa Penida fast boats are frequent but schedules and sea conditions change.
-- One-way fast boat prices can start around low IDR 100,000 range, but final group pricing should be checked at booking time.
-- Ferries/fast boats add a safety and delay variable; avoid tight same-day international departure after returning from Penida.
+- Fast boats Sanur - Nusa Penida ходят часто, но расписания и море меняются.
+- Цены one-way могут начинаться от низкого диапазона IDR 100 000+, но финальную групповую стоимость нужно проверять на момент бронирования.
+- Fast boat добавляет переменную задержек и безопасности; не ставить плотный международный вылет сразу после возврата с Пениды.
 
-### Freediving / Content Potential
+### Потенциал для фридайвинга и контента
 
-Nusa Penida is strong for:
+Сильные стороны Нуса-Пениды:
 
 - Manta-oriented underwater story.
-- Dramatic ocean visuals.
+- Драматичная океанская визуальность.
 - Premium content package.
 - Adventure positioning.
-- Strong social media assets.
+- Сильные social media assets.
 
-It is weaker for:
+Слабые стороны:
 
-- Beginner comfort.
-- Predictable training conditions.
-- Easy logistics compared with Panglao or Amed.
-- Guarantee-based selling.
+- Ниже комфорт для новичков.
+- Менее предсказуемые тренировочные условия.
+- Сложнее логистика, чем у Панглао или Амеда.
+- Нельзя продавать через гарантии.
 
-### Budget Notes
+### Бюджетные ориентиры
 
-Early planning estimate per participant, excluding international flights:
+Ранний рабочий расчет на участника, без международных перелетов:
 
-- Budget base: 1,100-1,600 EUR.
-- Comfortable base: 1,600-2,300 EUR.
-- Premium content / small group: 2,300-3,500 EUR.
+- Базовый уровень: 1 100-1 600 EUR.
+- Комфортный уровень: 1 600-2 300 EUR.
+- Premium content / small group: 2 300-3 500 EUR.
 
-Final budget depends on boat days, accommodation level, production crew, local guides and whether Bali buffer nights are included.
+Финальная смета зависит от лодочных дней, уровня проживания, команды продакшена, локальных гидов и того, включены ли буферные ночи на Бали.
 
-## Open Questions
+## Открытые вопросы
 
-- Is this a freediving trip, content expedition or premium photo/video tour?
-- Minimum required participant level.
-- Which local boat / dive / safety partner?
-- Do we include Bali buffer nights?
-- Is manta day mandatory in product structure or condition-based bonus?
-- How much post-production is included?
+- Это фридайвинг-поездка, content expedition или premium photo/video tour?
+- Минимальный уровень участника.
+- Какой локальный boat / dive / safety partner?
+- Включаем ли буферные ночи на Бали?
+- Manta day - обязательная часть продукта или condition-based bonus?
+- Какой объем постпродакшена включен?
 
-## Sources To Recheck Before Publishing
+## Источники, которые нужно перепроверить перед публикацией
 
-- Official Indonesian eVisa / immigration site for visa rules.
-- Sanur Harbour / fast boat operators for current schedules and prices.
-- Nusa Penida dive operators for manta / mola season references.
-- Current Bali sea travel advisories and local safety updates.
+- Официальный Indonesian eVisa / immigration сайт по визовым правилам.
+- Sanur Harbour / fast boat операторы по актуальным расписаниям и ценам.
+- Дайв-операторы Нуса-Пениды по сезонности manta / mola.
+- Актуальные travel advisories по морским переездам на Бали.
