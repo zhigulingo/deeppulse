@@ -85,6 +85,7 @@
 
   /* ---------- Gallery ---------- */
   var GALLERY = [
+    { src: "g14", alt: "Close pod of dolphins swimming through clear blue water" },
     { src: "g13", alt: "Pod of dolphins swimming through deep blue water" },
     { src: "g01", alt: "Freediver gliding through sun rays above a coral reef" },
     { src: "g02", alt: "Freediver in red beside a sea turtle over a sandy bottom" },
