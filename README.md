@@ -24,7 +24,7 @@ index.html              All page content (EN + RU side by side)
 assets/css/styles.css   Design system, layout, responsive rules
 assets/js/main.js       Language toggle, menu, package tabs, gallery lightbox, form
 assets/img/             hero1–4, about, cta, favicon
-assets/img/gallery/     g01–g13 (grid thumbs) + g01–g13-full (lightbox)
+assets/img/gallery/     g01–g15 (grid thumbs) + g01–g15-full (lightbox)
 ```
 
 ## Things you'll likely want to edit
