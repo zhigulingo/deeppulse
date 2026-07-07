@@ -9,10 +9,15 @@
   if (yearEl) yearEl.textContent = new Date().getFullYear();
 
   /* ---------- Language ---------- */
-  var TITLES = {
-    en: "Deep Pulse Production — Underwater Photo & Video for Dolphin Tours",
-    ru: "Deep Pulse Production — Подводное фото и видео для туров с дельфинами"
-  };
+  var TITLES = document.body.classList.contains("consent-page")
+    ? {
+        en: "Deep Pulse Production - Client Consent Form",
+        ru: "Deep Pulse Production - Форма согласия клиента"
+      }
+    : {
+        en: "Deep Pulse Production — Underwater Photo & Video for Dolphin Tours",
+        ru: "Deep Pulse Production — Подводное фото и видео для туров с дельфинами"
+      };
   var langBtns = Array.prototype.slice.call(document.querySelectorAll(".lang-btn"));
 
   function setLang(lang) {
@@ -43,6 +48,7 @@
   /* ---------- Header scroll state ---------- */
   var header = document.getElementById("header");
   function onScroll() {
+    if (!header) return;
     if (window.scrollY > 30) header.classList.add("scrolled");
     else header.classList.remove("scrolled");
   }
@@ -53,18 +59,21 @@
   var toggle = document.getElementById("menuToggle");
   var nav = document.getElementById("nav");
   function closeMenu() {
+    if (!nav || !toggle) return;
     nav.classList.remove("open");
     toggle.setAttribute("aria-expanded", "false");
     document.body.style.overflow = "";
   }
-  toggle.addEventListener("click", function () {
-    var open = nav.classList.toggle("open");
-    toggle.setAttribute("aria-expanded", open ? "true" : "false");
-    document.body.style.overflow = open ? "hidden" : "";
-  });
-  nav.querySelectorAll("a").forEach(function (a) {
-    a.addEventListener("click", closeMenu);
-  });
+  if (toggle && nav) {
+    toggle.addEventListener("click", function () {
+      var open = nav.classList.toggle("open");
+      toggle.setAttribute("aria-expanded", open ? "true" : "false");
+      document.body.style.overflow = open ? "hidden" : "";
+    });
+    nav.querySelectorAll("a").forEach(function (a) {
+      a.addEventListener("click", closeMenu);
+    });
+  }
 
   /* ---------- Package tabs ---------- */
   var tabs = Array.prototype.slice.call(document.querySelectorAll(".pkg-tab"));
@@ -147,16 +156,18 @@
       openLb(parseInt(item.getAttribute("data-index"), 10));
     });
   }
-  lbClose.addEventListener("click", closeLb);
-  lbPrev.addEventListener("click", function () { showImg(current - 1); });
-  lbNext.addEventListener("click", function () { showImg(current + 1); });
-  lb.addEventListener("click", function (e) { if (e.target === lb) closeLb(); });
-  document.addEventListener("keydown", function (e) {
-    if (!lb.classList.contains("open")) return;
-    if (e.key === "Escape") closeLb();
-    else if (e.key === "ArrowLeft") showImg(current - 1);
-    else if (e.key === "ArrowRight") showImg(current + 1);
-  });
+  if (lb && lbImg && lbClose && lbPrev && lbNext) {
+    lbClose.addEventListener("click", closeLb);
+    lbPrev.addEventListener("click", function () { showImg(current - 1); });
+    lbNext.addEventListener("click", function () { showImg(current + 1); });
+    lb.addEventListener("click", function (e) { if (e.target === lb) closeLb(); });
+    document.addEventListener("keydown", function (e) {
+      if (!lb.classList.contains("open")) return;
+      if (e.key === "Escape") closeLb();
+      else if (e.key === "ArrowLeft") showImg(current - 1);
+      else if (e.key === "ArrowRight") showImg(current + 1);
+    });
+  }
 
   /* ---------- Hero slideshow ---------- */
   var slides = Array.prototype.slice.call(document.querySelectorAll(".hero-slide"));
@@ -207,6 +218,48 @@
         "&body=" +
         encodeURIComponent(bodyLines.join("\n"));
       window.location.href = href;
+    });
+  }
+
+  /* ---------- Consent form -> mailto ---------- */
+  var consentForm = document.getElementById("consentForm");
+  if (consentForm) {
+    consentForm.addEventListener("submit", function (e) {
+      e.preventDefault();
+      var ru = document.body.classList.contains("lang-ru");
+      var data = new FormData(consentForm);
+      var methods = data.getAll("contact_method").join(", ");
+      var name = (data.get("name") || "").trim();
+      var subject = ru
+        ? "Форма согласия клиента - " + (name || "новый клиент")
+        : "Client consent form - " + (name || "new client");
+      var labels = ru
+        ? [
+            ["Имя", "name"], ["Телефон", "phone"], ["Instagram", "instagram"],
+            ["Размер обуви", "shoe_size"], ["Отель", "hotel"], ["Гражданство", "nationality"],
+            ["Способ связи", null], ["Промокод", "discount_code"], ["Комментарии", "comments"],
+            ["Дата рождения", "date_of_birth"], ["Дата съемки / бронирования", "booking_date"],
+            ["Подпись / ФИО", "signature"]
+          ]
+        : [
+            ["Name", "name"], ["Phone", "phone"], ["Instagram", "instagram"],
+            ["Shoe size", "shoe_size"], ["Hotel", "hotel"], ["Nationality", "nationality"],
+            ["Contact method", null], ["Discount code", "discount_code"], ["Comments", "comments"],
+            ["Date of birth", "date_of_birth"], ["Shoot / booking date", "booking_date"],
+            ["Signature / full name", "signature"]
+          ];
+      var lines = labels.map(function (pair) {
+        return pair[0] + ": " + (pair[1] ? (data.get(pair[1]) || "") : methods);
+      });
+      lines.push("");
+      lines.push(ru
+        ? "Клиент подтвердил согласие с условиями участия, политикой конфиденциальности, отказом от претензий, медицинской декларацией и согласием на фото- и видеосъемку."
+        : "Client confirmed agreement with the participation terms, privacy policy, liability release, medical declaration and photography release.");
+      window.location.href =
+        "mailto:hello@deeppulseproduction.com?subject=" +
+        encodeURIComponent(subject) +
+        "&body=" +
+        encodeURIComponent(lines.join("\n"));
     });
   }
 })();

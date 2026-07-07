@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Deep Pulse Production - Client Consent Form</title>
+<meta name="description" content="Client consent and booking details form for Deep Pulse Production underwater photoshoots." />
+<meta name="theme-color" content="#050d16" />
+<link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,400;9..144,500;9..144,600&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="assets/css/styles.css" />
+<script>document.documentElement.classList.remove('no-js');document.documentElement.classList.add('js');</script>
+</head>
+<body class="lang-en consent-page">
+
+<header class="site-header consent-header" id="header">
+  <div class="container header-inner">
+    <a href="index.html#top" class="brand" aria-label="Deep Pulse Production - home">
+      <svg class="brand-mark" viewBox="0 0 32 32" aria-hidden="true"><path d="M16 23C11.6 14.6 4.2 11 3 5.4 9.3 8 13 11.3 16 16.6 19 11.3 22.7 8 29 5.4 27.8 11 20.4 14.6 16 23Z"/></svg>
+      <span class="brand-text"><span class="brand-name">Deep Pulse</span><span class="brand-sub">PRODUCTION</span></span>
+    </a>
+
+    <nav class="nav" id="nav" aria-label="Primary">
+      <a href="index.html#about" class="nav-link"><span class="lang lang-en">About</span><span class="lang lang-ru">О нас</span></a>
+      <a href="index.html#services" class="nav-link"><span class="lang lang-en">Services</span><span class="lang lang-ru">Услуги</span></a>
+      <a href="index.html#packages" class="nav-link"><span class="lang lang-en">Packages</span><span class="lang lang-ru">Пакеты</span></a>
+      <a href="index.html#gallery" class="nav-link"><span class="lang lang-en">Gallery</span><span class="lang lang-ru">Галерея</span></a>
+      <a href="index.html#contact" class="nav-link nav-contact"><span class="lang lang-en">Contact</span><span class="lang lang-ru">Контакты</span></a>
+    </nav>
+
+    <div class="header-actions">
+      <div class="lang-switch" role="group" aria-label="Language">
+        <button type="button" class="lang-btn is-active" data-lang="en">EN</button>
+        <span class="lang-sep">·</span>
+        <button type="button" class="lang-btn" data-lang="ru">RU</button>
+      </div>
+      <a href="index.html#contact" class="btn btn-primary btn-sm header-cta"><span class="lang lang-en">Contact</span><span class="lang lang-ru">Контакты</span></a>
+      <button type="button" class="menu-toggle" id="menuToggle" aria-label="Menu" aria-expanded="false" aria-controls="nav">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </div>
+</header>
+
+<main class="consent-shell">
+  <section class="consent-hero">
+    <div class="consent-brand-line container">
+      <span class="brand-kicker"><span class="lang lang-en">One breath. Epic adventure.</span><span class="lang lang-ru">Один вдох. Большое приключение.</span></span>
+    </div>
+  </section>
+
+  <section class="consent-section">
+    <div class="container consent-wrap">
+      <div class="consent-copy reveal">
+        <p class="eyebrow"><span class="lang lang-en">Client consent</span><span class="lang lang-ru">Согласие клиента</span></p>
+        <h1><span class="lang lang-en">Almost there - your underwater photoshoot is waiting!</span><span class="lang lang-ru">Почти готово - ваша подводная съемка ждет!</span></h1>
+        <p class="lead"><span class="lang lang-en">Fill out your contact details, confirm the safety terms, and we will send your personalized plan within 30 minutes.</span><span class="lang lang-ru">Заполните контакты, подтвердите условия безопасности, и мы пришлем персональный план в течение 30 минут.</span></p>
+      </div>
+
+      <form class="consent-form reveal" id="consentForm">
+        <fieldset class="consent-fieldset">
+          <legend><span class="lang lang-en">Contact details</span><span class="lang lang-ru">Контактные данные</span></legend>
+
+          <div class="consent-field">
+            <label for="consent-name"><span class="lang lang-en">Name</span><span class="lang lang-ru">Имя и фамилия</span></label>
+            <input type="text" id="consent-name" name="name" required autocomplete="name" />
+          </div>
+
+          <div class="consent-field">
+            <label for="consent-phone"><span class="lang lang-en">Phone number</span><span class="lang lang-ru">Номер телефона</span></label>
+            <p><span class="lang lang-en">Kindly verify your number so we can reach you.</span><span class="lang lang-ru">Проверьте номер, чтобы мы могли с вами связаться.</span></p>
+            <input type="tel" id="consent-phone" name="phone" required autocomplete="tel" data-ph-en="+20 (000) 000-0000" data-ph-ru="+20 (000) 000-0000" />
+          </div>
+
+          <div class="consent-field">
+            <label for="consent-instagram"><span class="lang lang-en">Drop your Instagram</span><span class="lang lang-ru">Ваш Instagram</span></label>
+            <p><span class="lang lang-en">If you want us to tag you in your photos or contact you there.</span><span class="lang lang-ru">Если хотите, чтобы мы отметили вас на фото или связались там.</span></p>
+            <input type="text" id="consent-instagram" name="instagram" autocomplete="off" data-ph-en="@romeo_freediving" data-ph-ru="@romeo_freediving" />
+          </div>
+
+          <div class="consent-field">
+            <label for="consent-shoes"><span class="lang lang-en">What's your shoe size (and your friends', if joining)?</span><span class="lang lang-ru">Размер обуви ваш и друзей, если они участвуют</span></label>
+            <p><span class="lang lang-en">Please write all sizes in EU format, separated by commas (e.g. 38, 42, 44).</span><span class="lang lang-ru">Укажите все размеры в EU формате через запятую, например 38, 42, 44.</span></p>
+            <input type="text" id="consent-shoes" name="shoe_size" />
+          </div>
+
+          <div class="consent-field">
+            <label for="consent-hotel"><span class="lang lang-en">What hotel are you staying at?</span><span class="lang lang-ru">В каком отеле вы остановились?</span></label>
+            <p><span class="lang lang-en">So we can plan your pickup or give directions easily.</span><span class="lang lang-ru">Чтобы мы могли организовать трансфер или дать понятные инструкции.</span></p>
+            <input type="text" id="consent-hotel" name="hotel" />
+          </div>
+
+          <div class="consent-field">
+            <label for="consent-nationality"><span class="lang lang-en">What is your nationality?</span><span class="lang lang-ru">Ваше гражданство</span></label>
+            <p><span class="lang lang-en">So we can better tailor your experience and speak your language if possible.</span><span class="lang lang-ru">Так мы лучше подстроим опыт и по возможности будем говорить на вашем языке.</span></p>
+            <input type="text" id="consent-nationality" name="nationality" />
+          </div>
+
+          <div class="consent-field">
+            <label><span class="lang lang-en">How would you like us to contact you?</span><span class="lang lang-ru">Как с вами удобнее связаться?</span></label>
+            <div class="consent-options" role="group" aria-label="Contact methods">
+              <label class="consent-choice"><input type="checkbox" name="contact_method" value="WhatsApp" /> <span>WhatsApp</span></label>
+              <label class="consent-choice"><input type="checkbox" name="contact_method" value="Telegram" /> <span>Telegram</span></label>
+              <label class="consent-choice"><input type="checkbox" name="contact_method" value="Instagram" /> <span>Instagram</span></label>
+            </div>
+            <p class="consent-hint"><span class="lang lang-en">Select one or more options</span><span class="lang lang-ru">Можно выбрать один или несколько вариантов</span></p>
+          </div>
+
+          <div class="consent-field">
+            <label class="sr-only" for="consent-code"><span class="lang lang-en">Discount code</span><span class="lang lang-ru">Промокод</span></label>
+            <input type="text" id="consent-code" name="discount_code" data-ph-en="Have a discount code?" data-ph-ru="Есть промокод?" />
+          </div>
+
+          <div class="consent-field">
+            <label for="consent-comments"><span class="lang lang-en">Any comments or questions?</span><span class="lang lang-ru">Комментарии или вопросы</span></label>
+            <textarea id="consent-comments" name="comments" rows="3"></textarea>
+          </div>
+        </fieldset>
+
+        <fieldset class="consent-fieldset consent-legal">
+          <legend><span class="lang lang-en">Participation agreement</span><span class="lang lang-ru">Согласие на участие</span></legend>
+          <details>
+            <summary><span class="lang lang-en">Privacy, safety and media terms</span><span class="lang lang-ru">Конфиденциальность, безопасность и медиаправа</span></summary>
+            <div class="legal-text">
+              <p><span class="lang lang-en">I confirm that I have provided accurate contact and health information, understand the risks of swimming, freediving, breath-hold activity and open-water photoshoots, and agree to follow all instructions from Deep Pulse Production, Romeo Freediving, the instructor, photographer, captain and crew.</span><span class="lang lang-ru">Я подтверждаю, что предоставил(а) достоверные контактные данные и информацию о здоровье, понимаю риски плавания, фридайвинга, задержки дыхания и подводной съемки в открытой воде, и обязуюсь выполнять инструкции Deep Pulse Production, Romeo Freediving, инструктора, фотографа, капитана и команды.</span></p>
+              <p><span class="lang lang-en">I accept the payment and cancellation terms: deposits and payments are non-refundable unless otherwise agreed in writing. If the organizer cancels due to weather, sea conditions, safety or technical reasons, an alternative date or credit may be offered.</span><span class="lang lang-ru">Я принимаю условия оплаты и отмены: депозиты и платежи не возвращаются, если иное не согласовано письменно. Если организатор отменяет съемку из-за погоды, состояния моря, безопасности или технических причин, может быть предложена другая дата или кредит на будущую съемку.</span></p>
+              <p><span class="lang lang-en">I allow Deep Pulse Production to capture photo, video and audio materials during the activity and use them for portfolio, website, social media, promotional, editorial and commercial materials unless I notify the organizer in writing before the shoot.</span><span class="lang lang-ru">Я разрешаю Deep Pulse Production создавать фото-, видео- и аудиоматериалы во время активности и использовать их для портфолио, сайта, социальных сетей, рекламных, редакционных и коммерческих материалов, если письменно не сообщу организатору об отказе до начала съемки.</span></p>
+            </div>
+          </details>
+
+          <div class="consent-field consent-grid-2">
+            <div>
+              <label for="consent-birth"><span class="lang lang-en">Date of birth</span><span class="lang lang-ru">Дата рождения</span></label>
+              <input type="date" id="consent-birth" name="date_of_birth" />
+            </div>
+            <div>
+              <label for="consent-booking-date"><span class="lang lang-en">Shoot / booking date</span><span class="lang lang-ru">Дата съемки / бронирования</span></label>
+              <input type="date" id="consent-booking-date" name="booking_date" />
+            </div>
+          </div>
+
+          <label class="consent-check">
+            <input type="checkbox" name="agreement" required />
+            <span><span class="lang lang-en">I agree to the Participation Agreement, Privacy Policy, Liability Release, Medical Declaration and Photography Release.</span><span class="lang lang-ru">Я принимаю Соглашение об участии, Политику конфиденциальности, отказ от претензий, медицинскую декларацию и согласие на фото- и видеосъемку.</span></span>
+          </label>
+
+          <label class="consent-check">
+            <input type="checkbox" name="adult_confirm" required />
+            <span><span class="lang lang-en">I am 18+ or I am the parent / legal guardian signing for a minor participant.</span><span class="lang lang-ru">Мне есть 18 лет или я родитель / законный представитель несовершеннолетнего участника.</span></span>
+          </label>
+
+          <div class="consent-field">
+            <label for="consent-signature"><span class="lang lang-en">Client signature / full name</span><span class="lang lang-ru">Подпись клиента / ФИО</span></label>
+            <input type="text" id="consent-signature" name="signature" required />
+          </div>
+        </fieldset>
+
+        <div class="consent-actions">
+          <a href="index.html#contact" class="consent-back" aria-label="Back to website">&#8592;</a>
+          <button type="submit" class="btn btn-primary"><span class="lang lang-en">Book now</span><span class="lang lang-ru">Отправить</span></button>
+        </div>
+        <p class="form-note"><span class="lang lang-en">This opens your email app with the completed form.</span><span class="lang lang-ru">Откроется ваше почтовое приложение с заполненной формой.</span></p>
+      </form>
+    </div>
+  </section>
+</main>
+
+<script src="assets/js/main.js"></script>
+</body>
+</html>
